@@ -138,9 +138,3 @@ pytest tests/ -v
    - View detailed individual session audit pages.
 
 ---
-
-## Technical Documentation Links
-- [System Architecture & Data Flows](file:///c:/Projects/Theratrack/docs/ARCHITECTURE.md)
-- [Prerequisites & Setup Guide](file:///c:/Projects/Theratrack/docs/SETUP.md)
-- [Empirical Demonstration Walkthrough & Verification Checksheet](file:///c:/Projects/Theratrack/evidence/WALKTHROUGH.md)
-- [MSSQL Database Schema](file:///c:/Projects/Theratrack/database/schema.sql)
